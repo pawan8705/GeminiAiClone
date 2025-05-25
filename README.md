@@ -15,12 +15,12 @@ Gemini AI Clone is a fully responsive, user-friendly web application that replic
 
 ## 🛠️ Technologies Used:
 
-HTML5
+1. HTML5
 
-CSS3
+2. CSS3
 
-JavaScript
+3. JavaScript
 
-Tailwind CSS
+4. Tailwind CSS
 
-Gemini API
+5. Gemini API
