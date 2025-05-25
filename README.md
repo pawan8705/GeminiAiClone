@@ -1,12 +1,26 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 🌟 Gemini AI Clone
+Gemini AI Clone is a fully responsive, user-friendly web application that replicates the look and feel of Google's Gemini AI interface. Built using HTML, CSS, JavaScript, and Tailwind CSS, this project integrates the Gemini API to enable intelligent, real-time AI responses.
 
-Currently, two official plugins are available:
+## 🚀 Features
+✅ Seamless integration with Gemini API for dynamic AI interaction
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+💡 Clean and modern UI inspired by Gemini AI
 
-## Expanding the ESLint configuration
+📱 Fully responsive across all devices
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+⚡ Built with Tailwind CSS for rapid and efficient styling
+
+🧠 Smooth, intuitive user experience
+
+## 🛠️ Technologies Used:
+
+HTML5
+
+CSS3
+
+JavaScript
+
+Tailwind CSS
+
+Gemini API
